@@ -18,7 +18,7 @@ Output relations|.
 
 ##### References
 
-This operator is based on the [pheatmap R function]https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap.
+This operator is based on the [pheatmap R function](https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap).
 
 ##### See Also
 
