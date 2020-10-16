@@ -1,7 +1,7 @@
 {
   "name": "Shiny Heatmap",
-  "description": "Heatmap",
+  "description": "Create a clustered heatmap.",
   "tags": ["heatmap"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/shiny_heatmap_operator"]
+  "urls": ["https://github.com/tercen/heatmap_shiny_operator"]
 }
