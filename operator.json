@@ -1,6 +1,6 @@
 {
-  "name": "Shiny Heatmap",
-  "description": "Create a clustered heatmap.",
+  "name": "Heatmap Plot",
+  "description": "Displays a graphical representation of data where values are depicted by color. ",
   "tags": ["heatmap"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/heatmap_shiny_operator"]
